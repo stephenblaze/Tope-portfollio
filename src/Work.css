@@ -1,0 +1,39 @@
+.wet {
+    color: white !important;
+        font-family: 'Semibold';
+        font-size: 5em;
+        padding-left: 10rem;
+        
+        
+}
+
+.wetter {
+        color: white !important;
+        font-family: 'Semibold';
+        line-height: 120%;
+        font-size: 2.222em;
+}
+
+.wettest {
+        color: white !important;
+        font-family: 'Semibold';
+        line-height:120%;
+        font-size: 2.222em;    
+}
+
+.wets {
+        color: white !important;
+        font-family: 'Semibold';
+        line-height: 120%;
+        font-size: 2.222em;    
+}
+
+.project-projection {
+                color: #ea0f1e;
+                font-size: 40px;
+                cursor: pointer;
+                font-family: "Medium";
+                font-size: 16px;
+        
+}
+

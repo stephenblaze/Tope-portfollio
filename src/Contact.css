@@ -1,0 +1,51 @@
+.body {
+    margin-bottom: 30%;
+}
+h1 {
+    color: white;
+        font-family: 'Semibold';
+        line-height: 170%;
+        font-size: 4em;
+        padding-left: 30rem;
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+        justify-content: center;
+}
+
+.pit {
+    color: white;
+    font-family: 'Semibold';
+    line-height: 50%;
+    font-size: 40px;
+    padding-left: 30rem;
+}
+
+.putin {
+    color: white;
+    text-align: center;
+    font-family: 'Semibold';
+    font-size: 20px;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.lip {
+    color: white;
+    width: 80%;
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Semibold';
+    padding-right: 60%;
+
+}
+
+
+.lop {
+    color: red;
+    width: 40%;
+    font-size: 30px;
+    font-family: 'Medium';
+    text-align: center;
+}
